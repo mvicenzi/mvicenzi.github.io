@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "25yo. PhD student in Physics @ INFN and University of Genova"
+  bio              : "25yo. <br/>PhD student in Physics @ INFN and University of Genova "
   location         : "Genova, Italy"
   employer         : #"INFN and University of Genova"
   pubmed           : #""
