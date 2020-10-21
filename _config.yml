@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matteo Vicenzi"
 title_separator          : "-"
 name                     : &name "Matteo Vicenzi"
-description              : &description "personal description"
+description              : &description "Matteo Vicenzi's personal website"
 url                      : https://mvicenzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mvicenzi/mvicenzi.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Genova, Italy"
   employer         : "INFN and University of Genova"
-  pubmed           : ""
-  googlescholar    : ""
-  email            : "matteo.vicenzi@ge.infn.it"
+  pubmed           : #""
+  googlescholar    : #""
+  email            : #"matteo.vicenzi@ge.infn.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
