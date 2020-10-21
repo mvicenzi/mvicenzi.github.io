@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "25yo. <br/>PhD student in Physics @ INFN and University of Genova "
+  bio              : "25yo, he/him <br/>PhD student in Physics <br/> INFN and University of Genova "
   location         : "Genova, Italy"
   employer         : #"INFN and University of Genova"
   pubmed           : #""
   googlescholar    : #""
-  email            : #"matteo.vicenzi@ge.infn.it"
+  email            : #""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
