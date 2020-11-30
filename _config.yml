@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About me"
-  avatar           : "me_CERN.jpg"
+  avatar           : "me.jpg"
   bio              : "25yo, he/him <br/>PhD student in Physics <br/> INFN and University of Genova "
   location         : "Genova, Italy"
   employer         : #"INFN and University of Genova"
